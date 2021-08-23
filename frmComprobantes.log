@@ -1,0 +1,3 @@
+Línea 346: la clase ExaminadorDLL.ObjView del control ObjView no era una clase de control cargada.
+Línea 352: el nombre de la propiedad _ExtentX de ObjView no es válido.
+Línea 353: el nombre de la propiedad _ExtentY de ObjView no es válido.
